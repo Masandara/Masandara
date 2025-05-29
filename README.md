@@ -1,6 +1,5 @@
 ![MasAndara](img/github-header-image.png)
 
-<br>
 <!--
 **Masandara/Masandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
