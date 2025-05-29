@@ -58,8 +58,4 @@ Here are some ideas to get you started:
 
 #### Play games with me
 
-###
-
 <img src="https://raw.githubusercontent.com/Masandara/Masandara/output/snake.svg" alt="Snake animation" />
-
-###
