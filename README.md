@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 #### My Progress
 
-- 📚 I am currently taking a class on **AI Fluency & AI-900 Azure Fundamental by Microsoft**
+📚 I am currently taking a class on **AI Fluency & AI-900 Azure Fundamental by Microsoft**
 
 #### Skills
 
